@@ -7,7 +7,7 @@ arXiv:1911.08508, https://arxiv.org/abs/1911.08508
 
 
 Hector J. Hortua, et.al
-Constraining the reionization history using Bayesian normalizing flows,Mach. Learn.: Sci. Technol. 2632, 2020
+Constraining the reionization history using Bayesian normalizing flows,Mach. Learn.: Sci. Technol. 1 035014, 2020
 https://doi.org/10.1088/2632-2153/aba6f1
 
 Please consider citing the paper when any of the material is used for your research.
